@@ -1,0 +1,16 @@
+{
+  "name": "github-action-pokemon-comment",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "actions-toolkit": "^3.0.1",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
